@@ -1,8 +1,4 @@
-/**
- * @file notificaton.js
- * @author Sanjay Sunil
- * @license MIT
- */
+
 
 function successNotification(message) {
   new Noty({
