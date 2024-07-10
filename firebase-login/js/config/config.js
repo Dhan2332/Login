@@ -1,18 +1,13 @@
-/**
- * @file config.js
- * @author Sanjay Sunil
- * @license MIT
- */
+
 
 var firebaseConfig = {
-  apiKey: "AIzaSyCKGUmFr5B7Uag0NctkhCRDkAQoB5pYNQg",
-  authDomain: "fir-login-2eaf4.firebaseapp.com",
-  databaseURL: "https://fir-login-2eaf4-default-rtdb.firebaseio.com",
-  projectId: "fir-login-2eaf4",
-  storageBucket: "fir-login-2eaf4.appspot.com",
-  messagingSenderId: "608621681488",
-  appId: "1:608621681488:web:626e37a5cc92b8764aaa55",
-  measurementId: "G-T70T1M6SSE"
+  apiKey: "AIzaSyD_mliGtPfOpum_KTi21yC7EPDc-GW12vg",
+  authDomain: "practice-eb0b3.firebaseapp.com",
+  projectId: "practice-eb0b3",
+  storageBucket: "practice-eb0b3.appspot.com",
+  messagingSenderId: "346515709257",
+  appId: "1:346515709257:web:9b128f60a5324eab030e98",
+  measurementId: "G-KXC8V3QDD8"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
