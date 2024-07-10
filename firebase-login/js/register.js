@@ -1,8 +1,3 @@
-/**
- * @file register.js
- * @author Sanjay Sunil
- * @license MIT
- */
 
 function registration() {
   console.log('Attempting to register user ...')
