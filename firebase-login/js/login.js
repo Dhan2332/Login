@@ -1,8 +1,3 @@
-/**
- * @file login.js
- * @author Sanjay Sunil
- * @license MIT
- */
 
 let globalEmail = "";
 
